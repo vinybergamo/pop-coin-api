@@ -1,0 +1,1 @@
+{"version":3,"file":"AppProvider.js","sourceRoot":"","sources":["../../providers/AppProvider.ts"],"names":[],"mappings":";;AAEA,MAAqB,WAAW;IAC9B,YAAsB,GAAwB;QAAxB,QAAG,GAAH,GAAG,CAAqB;IAAG,CAAC;IAE3C,QAAQ,KAAI,CAAC;IAEb,KAAK,CAAC,IAAI,KAAI,CAAC;IAEf,KAAK,CAAC,KAAK,KAAI,CAAC;IAEhB,KAAK,CAAC,QAAQ,KAAI,CAAC;CAC3B;AAVD,8BAUC"}
